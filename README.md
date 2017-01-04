@@ -1,2 +1,3 @@
 # Algorithm
 training.....
+code basic algorithms
